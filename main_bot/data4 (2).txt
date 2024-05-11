@@ -1,0 +1,151 @@
+OFFICE OF THE DEAN ACADEMIC
+INDIAN INSTITUTE OF ENGINEERING SCIENCE AND TECHNOLOGY, SHIBPUR
+Bachelor of Technology in Information Technology
+Provisional Result of the Third Semester Examination, 2023, held in November, 2023.
+Examroll
+
+Exam enrollment no.          Student Name          Remark            SGPA             CGPA               Back subjects                  
+2021ITB003                   Surajit Das           Supple            6.48             6.16               AM 1201, MA1201
+2021ITB006                   Chandan Ghosh         Supple            7.08             6.97               CH1201
+2021ITB079 		  Samyak Mahudwale Borkar            Pass             6.4              6.77                NO
+2022ITB001		              Pallab Mandal          Pass              8               7.93                NO
+2022ITB002 		              Saideep Lama           Supple            5.2              5.6                MA1201, IT2101, IT2103
+2022ITB003 		             Sugali Tharun Naik      Supple            5.08             5.86                MA1201, IT2101, IT2103
+2022ITB004 		             Abhijit Karmakar        Pass              9.44             9.4                   NO
+2022ITB005 		              Soumyajit Karmakar      Pass              9.8             9.53                 NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB006 		              Aaratrika Sarkar        Pass              8.6              8.08                  NO
+2022ITB007 		               Ankita Gupta          Pass              7.36             7.15                   NO
+2022ITB008 		               Panchadi Bhavana        Pass             7.76            7.14                  NO
+2022ITB009 		               Pankaj Yadav           Pass              8.28            8.3                    NO
+2022ITB010 		               Rakhi Saren           Supple             6.44            6.55                 IT 2103
+2022ITB011                     Harshit Kumar         Pass              9.8              9.3                   NO
+
+Exam enrollment no.            Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB012                     Subhranil Nandy	       Pass              9.56             9.25                  NO
+2022ITB013                      Tirtha Halder          Pass               8.44            8.05                  NO
+
+Exam enrollment no.            Student Name          Remark              SGPA             CGPA               Back subjects
+2022ITB014                      Sayan Roy             Pass                8.44            8.42                  NO
+2022ITB015                      Nilanjan Kundu	     Supple               7.92            7.63                  IT2191
+2022ITB016                      Bidyut Mridha        Supple                5.6            6.49                 IT2101, IT2103
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB017                    Ankur Mukherjee       Pass               8.04             7.64                   NO
+2022ITB018                     Somdatta Biswas       Pass              7.84             7.74                    NO
+2022ITB019                     Aditya Roy          Pass                8.56             8.15                   NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB020                      Papri Das          Supple              6.36              6.41                  PH1101, IT2103
+2022ITB021                    Vanshika Kothari       Pass               9.92            9.73                  NO
+2022ITB023                     Aitijhya Modak        Pass               9.64            9.47                  NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB024                     Om Kumar Rath       Pass                 9              8.75                  NO
+2022ITB025                    Abhigyan Kumar       Supple              4.64            5.84                 IT2101, IT2103, IT2191
+2022ITB026                  Nikhil Kumar Yadav     Pass               9.16             8.9                   NO
+
+Exam enrollment no.          Student Name          Remark              SGPA            CGPA               Back subjects
+2022ITB027                    Amartya Ghosh        Pass                9.6             9.16                  NO
+2022ITB029                    Gaurav Gupta         Supple              6.52            6.93                 IT2103
+2022ITB030              Shashank Shekhar Pathak     Pass               9.2             8.84                   NO
+
+Exam enrollment no.         Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB031                  Priyabrata Senapati     Pass               8.52            7.95                   NO
+2022ITB032                    Yashkumar Senma       Supple             7               7.21                IT2103
+2022ITB033                Mallela Aswartha Sai Kr Reddy  Supple        6.12            6.92                 IT2103
+2022ITB034 			            Sayak Chowdhury      Pass		       8.4             8.01                  NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects
+2022ITB035 			           Samreen Aftab       Pass		            9                8.47                 NO
+2022ITB036 			           Atanu Mondal        Supple              6.96              7.4                 IT2103
+
+Exam enrollment no.             Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB037 		                 Subhadeep Banik       Supple              6.72             6.63                IT2103
+2022ITB038                       Abhay Bhardwaj         Pass               9.68            9.44                 NO
+2022ITB039                       Soham Dalui             Pass               7.76            8.18                 NO
+2022ITB040                       Ankesh Hatui            Pass               8.24           7.99                  NO
+
+Exam enrollment no.          Student Name          Remark               SGPA               CGPA               Back subjects
+2022ITB041                       Ritika Yadav        Pass                8.4                7.73                  NO
+2022ITB042                      Debasmita Saha          Pass             8.04               7.9                   NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB043                 Burla Sai Krishna        Pass                8.44             8.48                  NO
+2022ITB044 			         Om Singh               Pass                7.8              7.4                  NO
+2022ITB048 		             Subhadeep Barman        Pass                7.92            8.14                 NO
+2022ITB050 		              Aditya Seth              Pass              7.8             7.78                 NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects
+2022ITB051 		              Md Shakeb Akhtar       Pass              8.44             8.37                 NO
+2022ITB052 		               Digwijoy Pandit       Pass              8.8               8.55                  NO
+2022ITB053 	                  Kri Manshi Singh       Pass              8.48              7.95                 NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB054 		             Raunak Sarkar          Pass                7.52            7.47                 NO
+2022ITB055 		              Dushyant Verma        Supple              5.24            6.14                IT2101, IT2103
+2022ITB056 		              Harsh Ranjan           Pass               8.28             8.18                 NO
+2022ITB057 	                  Sangeet Gunwant Dhabare  Supple           6.32            6.71                IT2103
+2022ITB058 	                    Usha Mog              Supple            6                6.22                IT2103
+2022ITB059 	                     Arijit Pal            Pass            9.28              9.26                NO
+
+Exam enrollment no.          Student Name           Remark              SGPA             CGPA               Back subjects  
+2022ITB061 	                 Abhijit Mohanty        Pass                 9.16             8.45                NO
+2022ITB063 	               Pasagadugula Swathi Siva Durga    Pass        8.08             7.82                 NO
+2022ITB064 		          Tenzing Gyalpo Tamang       Supple             7.24             6.37                MA1201
+2022ITB065 		            Sumit Kumar Jha            Pass              7.88             7.49                
+2022ITB066                 Pritam Mondal            Supple               6.44             6.25               MA1201, IT2103
+2022ITB067                   Amritesh Kumar         Pass                 9.04             8.59               NO
+
+Exam enrollment no.          Student Name          Remark                SGPA               CGPA               Back subjects  
+2022ITB068                   Dhanraj Kumar          Pass                 7.84               7.49                NO
+2022ITB069                  Mayank Sharma            Supple               5.8               5.41                MA1201, PH1201, IT2103, IT2104
+2022ITB070                    Rohit Raj             Pass                 8.12               7.74                NO
+2022ITB071              Chatla Jithin Sri Surya     Pass                  8.36              7.9                 NO
+2022ITB072    Allamraju Veera Venkata Sai Prasad     Pass                 8.28              7.89                NO
+2022ITB073 		          Dabbara Akash              Supple               5.32              6.25                IT2101, IT2103
+
+Exam enrollment no.          Student Name                 Remark            SGPA             CGPA               Back subjects  
+2022ITB074 		      Talapaneni Varun Chowdary        Supple              6.72              7.07                 IT2101
+2022ITB075 		          Shashwat Pandey                Pass               8.76             8.44                 NO
+2022ITB076               Ritik Kumar                    Supple               0                                     PH1201
+2022ITB077               Kalpana Meena                  Supple              6.84              6.93                  IT2103
+2022ITB078                 Sumit Mangrati               Pass                 8.48             8.22                  NO
+2022ITB079                   Ankit Kumar                 Pass                8.04             7.78                  NO
+
+
+Exam enrollment no.          Student Name          Remark                  SGPA             CGPA               Back subjects  
+2022ITB080                   Abhash Jain             Pass                  7.92              7.75                 NO
+2022ITB081                  Mohak Singh              Pass                  8.88             8.81                  NO
+2022ITB082                Manmeet Kaur               Supple                5.92              6.38                 IT2104
+2022ITB083                 Sourov Debnath            Pass                  8.36              8.4                   NO
+Exam enrollment no.          Student Name          Remark                  SGPA             CGPA               Back subjects
+2022ITB084                Nitin Kumar Bais           Pass                  8.64              8.29                  NO
+2022ITB085                  Ayush Tejaswi            Pass                  8.52              8.7                   NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB086                  Vikash Gopalak          Supple              4.64            5.21                  EE1201, PH1201, IT2101, IT2103, IT2104
+2022ITB087 		           Ameer Hamza Khan          Pass               8.24             8.3                    NO
+2022ITB088 		            Nikita Nagpal           Pass                8.92             8.32                   NO
+2022ITB089                 Jeeet Choudhary           Pass               8.92             8.6                    NO
+2022ITB090                    Yash Kumar             Supple             4.8              5.66                  PH1201, IT2101, IT2103
+2022ITB091 		            Vinay Adari              Pass               6.72              6.92                   NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB092 	              Srujana Yarrarapu          Pass               6.84             6.63                   NO
+2022ITB093 		          Faiza Tabasum               Pass              7.12             6.89                  NO
+2022ITB094 		           Anurag Kumar               Pass              7.92             7.86                   NO
+2022ITB095 	               Archit Ranjan             Pass               9.08             8.77                  NO
+2022ITB096 	              Piyush Kumar Gupta          Pass              9.04             9.1                    NO
+2022ITB097 		         Soumadip Singha Mahapatra     Pass             8.56             8.92                  NO
+
+Exam enrollment no.          Student Name          Remark              SGPA             CGPA               Back subjects  
+2022ITB098 		           Soirindhri Das           Pass                 9               9.04                   NO
+2022ITB099                  Anchal Agrawal           Pass                8               8.67                   NO
+2022ITB100                     Manik                 Pass               8.6              8.86                   NO
+2022ITB101                 Harsh Prasad              Pass               9.4              9.14                   NO
+2022ITB102                Arunava Chakrabarty        Pass               9.12              8.99                  NO
+2022ITB103                   Ritik Kumar             Pass               8.8               8.86                  NO
+2022ITB104                    Manas Raj              Pass               8.04              8.44                  NO
+ 

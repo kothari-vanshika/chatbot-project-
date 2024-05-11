@@ -1,0 +1,487 @@
+Third semester courses curriculum of IT Information technology
+1 Mathematics  III with credits 3 and marks 100
+2 Data Structure and Algorithmswith credits 4 and marks 100
+3 Core Theory IIDigital Logic and Circuit Design with credits 4 and marks 100
+4 Core Theory IIIDiscrete Mathematics and Graph Theory with credits 3 and marks 100
+5 Signals and Systems with credits 3 and marks 100
+6 Data structure and Algorithm Lab with credits 2 and marks 50
+7 Digital Logic and Circuit Design Lab with credits 2 and marks 50
+8 Programming Lab with credits 2 and marks 50
+9 Seminar with credits 2 and marks 50
+
+Fourth Semester courses curriculum
+1 Communication Systems with credits 3 and marks 100
+2 Computer Organization and architecture with credits 4 and marks 100
+3 Computer Graphics with credits 3 and marks 100
+4 Formal language and Automata Theory with credits 3 and marks 100
+5 Object Oriented System Design with credits 2 and marks 100
+6 Communication Systems Lab with credits 2 and marks 50
+7 Computer graphics lab with credits 2 and marks 50
+8 Computer organisation and architecture lab with credits 2 and marks 50
+9 Mini project with credits 2 and marks 50
+
+Fifth semester courses curriculum
+1 Microprocessor and Microcontroller with credits 3 and marks 100
+2 Operating systems with credits 4 and marks 100
+3 Database management systems with credits 4 and marks 100
+4 Algorithms with credits 4 and marks 100
+5 Information and coding theory with credits 3 and marks 100
+6 Microprocessor and microcontroller lab with credits 2 and marks 50
+7 Operating systems lab with credits 2 and marks 50
+8 Database management systems with credits 2 and marks 50
+9 Algorithms lab with credits 2 and marks 50
+
+6th semester courses curriculum
+1 Compiler Design with credits 3 and marks 100
+2 Computer Networks with credits 4 and marks 100
+3 Software Engineering with credits 3 and marks 100
+4 High performance Computer Architecture with credits 3 and marks 100
+5 Machine learning with credits 4 and marks 100
+6 Computer Networks Lab with credits 2 and marks 50
+7 Software engineering lab with credits 2 and marks 50
+8 Machine learning lab with credits 2 and marks 50
+
+7th semester courses curriculum
+1 Information and System Security with credits 3 and marks 100
+2 Internet Technology with credits 3 and marks 100
+3 Core Elective  I with credits 3 and marks 100
+4 Open Elective HSS with credits 3 and marks 100
+5 Information and System Security Lab with credits 2 and marks 50
+6 Internet Technology Lab with credits 2 and marks 50
+7 BTech Project Part I with credits 4 and marks 100
+8 Internship Evaluation with credits 2 and marks 50
+7th Semester Core Elective I subjects are
+IT4121 Soft Computing Techniques
+IT4122 Image Processing
+IT4123 Graph Algorithms
+IT4124 Mobile Communications
+IT4125 Embedded Systems
+IT4126 Distributed Algorithms
+IT4127 Pattern Recognition
+IT4128 IoT Systems and Securit
+
+Eigth semester courses curriculum
+1 Artificial Intelligence with credits 4
+2 Core Elective  II with credits 3
+3 Open Elective  I with credits 3
+4 BTech Project Part 2 with 8 credits
+5 Seminar with 2 credits
+8th Semester  Core Elective II subjects are
+IT4221 Cloud Computing and Web Service
+IT4222 Real Time Systems
+IT4223 Parallel and Distributed Systems
+IT4224 Deep Learning 
+IT4225 Data Sciences
+IT4226 Intelligent Transportation and Smart Systems
+IT4227 Multimedia Systems 
+IT4267 Mobile Computing
+
+8th Semester  Open Elective I
+
+IT4261 Computational Geometry
+IT4262 Digital Signal Processing
+IT4263 Internet of Things
+IT4264 Multimedia Systems
+IT4265 CAD for VLSI
+IT4266 Cognitive radio networks
+IT4228 Bioinformatic
+
+Syllabus of Data structures and algorithms
+1 Introduction Functions arrays introduction to pointers structures dynamic allocation linked structures time and space requirements Algorithm Analysis 
+Asymptotic notations Running Time Calculations
+2 Stack Abstract Data Types ADTs Implementation of vector Array Implementation Multiple Stacks Applications and use of Stacks Conversion from Infix to Postfix 
+Evaluation of Postfix Expressions Prefix Notation etc
+3 Queue Introduction Liner Queue Circular Queue Dequeue Priority Queue Array Queue Implementation Applications of Queues GeneralList 
+4 Linked Lists Introduction pointer and Implementation Linear Linked Lists Circular Linked Lists Doubly Linked Lists Doubly circular Implementation of Linked Lists Linked Stacks and Queues Application of Linked List Polynomials 
+High precision Arithmetic Josephus Problem etc
+5 Recursion Recursion Algorithm Type of Different Recursion Algorithms Removal 
+of Recursion
+6 Graph Introduction BFS and DFS connected components spanning trees shortest 
+paths max flow
+Trees Tree Terminology Binary Tree Binary Tree Representation Binary Tree Traversals Threaded Binary TreeBinary Search Tree Concepts and 
+Implementation Heap tree AVL Tree Red Black tree
+7 Hashing Insert search delete collision resolving techniques 
+8 Search Methods Linear search Binary search Complexities of the searching 
+algorithms 
+9 Sorting Introduction to sorting and comparison of Sorting Techniques Complexities 
+of sorting algorithm
+
+SUGGESTED BOOKS for DSA data structures subject
+1 Seymour Lipschutz Data Structures Schaums Outlines Series Tata McGrawHill
+2 Ellis Horowitz SatrajSahni and Susan AndersonFreed Fundamentals of Data Structures in C W H Freeman and Company
+3 Goodrich Michael T  Roberto Tamassia Algorithm Design Wiley Singapore 
+4 Cormen Thomash H Leiserson Charles E Rivest Ronald L  Stein Clifford Introduction to 
+Algorithms
+
+Syllabus of digital logic circuit design dlcd
+1 Number systems and Codes Number representation and Computer arithmetic Codes
+2 Boolean Algebra and Minimization Techniques Boolean Logic operations Basic laws De Morgans theorems SOPPOS Kmap QuineMcCluskey or Tabular 
+method of minimization
+3 Logic Gates Logic Gates Mixed Logic Multilevel Gating networks Multilevel output gate networks
+4 Logic Families Digital Integrated Circuits Introduction to logic families CMOS logic
+5 Combinational Circuits Multiplexers Demultiplexers Decoders Encoders Parity GeneratorChecker Code converters Magnitude comparators Applications
+6 Arithmetic Circuits Adders and Subtractors Binary multiplier Binary divider 
+7 FlipFlops Latches FlipFlops Clocked SR JK D T Trigerring of Flipflops Realization of one flipflop using other Flipflop ICs Applications
+8 Counters Asynchronous Ripple or Serial counters Synchronous Parallel counters Applications
+9 Registers Universal shift registers Shift register counters Sequence generator 
+10 Memory devices Classification Basic memory structure ROM RAM Memory decoding Memory expansion PLD
+11 DA and AD converters Analog and digital data conversions Basic DA conversion techniques weighted resistor R2R ladder type etc Different AD converters Successive approximation Single slope Dual slope
+12 Applications of Digital Circuits Frequency counter Dot matrix display system Digital multimeter etc
+
+Suggested books for dlcd
+1 Logic and Computer Design Fundamentals by Mano Kime Pearson
+2 Modern Digital Electronics by Jain TMH
+3 Digital Design by Mano
+4 Digital Fundamentals by Floyd Jain Pearson
+5 Digital Circuits and Design by Salivahanan Arivazhagan Vikas
+6 Digital Principles and applications 5th Edition  Leach  Malvino
+7 Digital Computer Electronics  Malvin
+
+Syllabus of discrete maths and graph theory
+1 Logic and Proofs Propositions Conditional propositions and Logical Equivalence Predicate calculus quantifiers Normalization of wellformedformulasMethod of 
+proofs mathematical induction
+2 Language of Mathematics Sets sequences and strings Number systems Relations Equivalence relations Matrices of relations partial order sets well order sets quasi 
+order sets lattice Application to relational Databases Functions Inverse and composition of functions onetoone correspondence
+3 Algebraic structuresAlgebraic structures with one binary operation  semigroups monoids and groups Free and cyclic monoids and groups permutation groups normal subgroups Algebraic structures with two binary operations  rings integral 
+domains and fields Boolean algebra and Boolean ring
+4 Counting methods Basic principles of counting Inclusion exclusion addition and multiplication rules permutations and combinations algorithms for generating 
+permutations and combinations binomial coefficients and combinatorial identities 
+The pigeonhole principle Introduction to Polyas theory of counting
+5 Recurrence relations Introduction recursively defined sequences solving 
+recurrence relations the characteristic polynomial and generating functions 
+Applications to analysis of algorithms
+6 Graph theory Introduction to graphs and their basic propertiesdegree paths and cycles subgraphs isomorphism Euler and Hamiltonian paths and cycles representation of graphs connected graphs planar graphs Basic graph searching algorithms BFS and DFS Basics of tree and spanning tree
+7 Coloring of Graph graph coloring basics chromatic number 4 color problem
+Suggested books for discrete maths are
+1 Discrete Mathematics and its Applications by Kenneth H Rosen PHI
+2 Discrete MATHEMATICS FOR Computer Scientists J L Mott A Kandel and T P Baker
+3 Concrete Mathematics A Foundation for Computer Science by Ronald Graham Donald Knuth and Oren Patashnik
+4 Graph Theory With Applications To Engineering And Computer Science Narsingh Deo Tata Mc Graw Hill
+5 Graph Theory F Harary Narosa
+Syllabus for signals systems
+1 Introduction to signals and systems classification and representation concepts of linear vector space and orthogonal signal representation classification and properties of signals
+System properties linearity additivity and homogeneity shiftinvariance causality stability realizability
+2 Fourier series Fourier transform and its properties 
+3 Parsevals theorem Bandwidth of signals duality of time and frequency representations of signals 
+4 Discrete time signal sampling digitization and reconstruction of analog signals DTFT and DFT
+5 Introduction to random signals and their properties random variables and processes for characterization and analysis of message signal and noise
+6 Random process classification of random processes geometric representation of random process Gaussian random process auto and crosscorrelation power spectral density
+7 Introduction to system and classification discrete time system signal distortion in transmission distortionless conditions for signal transmission Linear time invariant LTI system impulse response convolution transfer function Bandwidth of systems System response to random signals
+Suggestd books for signals and systems
+1 Linear Systems and Signals B P Lathi Oxford
+2 Robert A Gabel Richard A Roberts Signals and Linear Systems John Wiley and Sons 1995
+3 Probability and Random Processes with Applications to Signal Processing H Stark J W Woods Pearson Education Asia
+
+Syllabus of communication systems
+1 Analog Communication Introduction to electrical communication elements of a communication system
+2 Introduction to modulation Different types of analog modulations AM FM PM with demodulation techniques 
+3 Different types of analog modulations Comparative studies and performance analysis modulation efficiency SNR effect 
+4 multiplexing techniques application of analog modulation 
+5 Waveform coding PCM DPCM and Delta modulation performance studies
+6 Base band shaping for data transmission 
+7 Nyquist criterion for ISI and eye pattern equalization 
+8 Digital Modulation Digital carrier modulation techniques ASK FSK PSK MPSK
+9 Digital Demodulation Coherent and noncoherent detection 
+10 Noise Analysis PSD and Bit vs symbol error probability and bandwidth efficiency
+12 Broadband Communication Introduction to Spread Spectrum modulation effect on thermal noise singletone interference and jamming process gain 
+13 Broadband Communication properties and generation of spreading code patterns DSSS FHSS THSS techniques and their comparison 
+
+Books for communication systems
+1 Modern Digital and Analog Communication Systems BP Lathi  5th edition Oxford University Press USA
+2 Communication Systems A B Carlson 4th Edition Mcgraw Hill 2002 
+3 Communication Systems Simon S Haykin John Wiley  Sons 1983 
+4 Principles of communication Systems Taub Schilling Tata Mc Graw Hill
+5 Digital and Analog communication Systems K Sam Sanmugam
+6 Digital Communications J G Proakis M Salehi 5th edition McGrawHill New York
+
+Syllabus for computer organization and architecture coa
+1 Computer function and Interconnection Computer Components Computer function Interconnection structures Bus interconnection PCI
+2 CPU Arithmetic ALU Integer representation Integer arithmetic Floating point representation Floating point arithmetic
+3 Instruction Sets Machine instruction characteristics types of operands Types of operations Assembly language Addressing Instruction formats
+4 Processor Design and Datapath Processor role processor design goals processor design process datapath organization main memory interface local storageregister file datapath for simple instructions floating point unit 
+5 Processor design and control unit Role of control unit reset sequence interrupt recognition and servicing abnormal situation handling instruction cycle and decisions involved hardwired control unit microprogrammed control unit
+6 Memory Overview of computer memory system memory parameters classification of memory main memory allocation static RAM IC Dynamic 
+RAM ROM logic multiple memory decoding
+7 Cache Cache memory principles elements of cache design Cache organization
+8 Internal memory Semiconductor main memory error correction advanced DRAM organization
+9 External memory Magnetic disk RAID optical memory magnetic tape 
+10 InputOutput External devices IO modules Programmed IO Interrupt driven IO DMA IO channels and processors External interface Firewire Infiniband and USB
+11 Concurrency in Pipelining and Vector processing Performance enhancement strategies classification of parallelism multiple functional units pipelining vector computing array processor
+
+Suggested books for COAComputer organisation and architecture
+1 Computer Architecture and Organization Design Principles and Applications B Govindarajalu TMH
+2 Computer Organization and Architecture Designing for Performance William Stallings Pearson
+3 Computer Architecture A Quantitative Approach John L Hennessy and David A Patterson ELSEVIER
+4 Computer Systems Architecture A Networking Approach Rob Williams 2nd Ed PEARSON
+5 Computer Organization and Design The Hardware Software Interface ARM Edition David A 
+Patterson and John L Hennessy MK
+
+Syllabus for computer graphics
+1 Introduction to Computer Graphics  Overview of Computer Graphics Computer Graphics Applications and Software
+2 Basic graphics IO devices overview of Raster and vector graphics displayworking principle of CRT based display device LCD display device 
+3 Introduction to frame buffer Colour Look Up Table etc
+4 Scan conversion lines circles and Ellipses Filling polygons and clipping algorithmsScan Converting Lines DDA Bresenham Midpoint algorithms and Problems of Aliasing
+Scan Converting Circles and Ellipse
+5 Filling Polygons Flood fill boundary fill scan line fill
+6 Line clipping algorithms Cyrus Beck CohenSutherland and LiangBarsky 
+7 Polygon Clipping algorithms Sutherland Hodgman and WeilerArtherton algorithm
+8 Two Transformations and Matrices 2 Dimensional Transformations
+9 Transformation Conventions
+10 Basic 2D Transformations Homogeneous Coordinates and Matrix Representation of 2D Transformations 
+11 ThreeDimensional Transformations and Projections
+12 Introduction Basic transformation matrices in ThreeDimensional Space
+13 Rotation about an Arbitrary Axis in Space Reflection through an Arbitrary Plane Projections Orthogonal axonometric and oblique 3
+14 VisibleSurface Determination Techniques for efficient VisibleSurface AlgorithmsCategories of algorithms
+15 Back face removal The zBuffer Algorithm Scanline method Painters algorithms depth sorting 
+16 Area subdivision methodsBSP trees VisibleSurface Ray Tracing
+6 Plane Curves and Surfaces
+7 Curve Representation Representation of Space CurvesCubic Splines Bezier Curves Bspline Curves
+Suggested Text Books for grpahics
+1 Computer Graphics Principles  Practice by James D Foley Andries van Dam Steven K Feiner and John F Hughes 2nd Edition in C
+2 Computer Graphics with OpenGL 3e D D Hearn and M P Baker
+3 Mathematical Elements for Computer Graphics by Rogers and Adams McGraw Hill
+4 Computer Graphics First Indian Edition Peter Shirley and Steve Marschner Cengage Learning Reprint of A K Peters 2011
+ Syllabus of automata theory
+1 Language and Grammar definition Alphabet languages and grammars productions and derivation Chomsky hierarchy of languages
+2 Finite automata Definition Characteristics Transitional system deterministic finite automata DFA Nondeterministic finite automata NFA  equivalence of DFA and NFA Dead state FiniteAutomata with output Mealy machine and Moore machine Conversion Minimization of finite automata MyhillNerode theorem Two way finite 
+automata Application and limitation
+3 Finite State Machines Definition concept of sequential circuits state table and state assignments capability and limitations of FSM state equivalence  minimization  Incompletely specified machine Minimal machine Merger graph Merger table Compatible graph 
+4 Regular Expression regular sets and regular expressions Basic operations on regular expressions Identities Ardens Theorem RE to NFA closure NFA with  move to DFA Regular grammar from RE pumping lemma for Regular expression closure properties of regular expression Decision problems of Regular expression Application 
+of RE 
+5 Contextfree languages and pushdown automata Left and right linear grammars Contextfree grammars CFG and languages CFL parse trees ambiguity in CFG inherent ambiguity Chomsky and Greibach normal forms closure properties of CFL pumping lemma for CFL Application of context free grammar 
+6 Pushdown AutomataPDA language recognized by PDA deterministic and non deterministic PDA equivalence of PDA and CFL Multi stack PDA
+7 Contextsensitive languages Contextsensitive grammars CSG and languages linear bounded automata and equivalence with CSG 
+8 Turing machines The basic model for Turing machines TM Mechanical diagram Non deterministic TM 
+9 Turingrecognizable recursively enumerable and Turingdecidable recursive languages and their closure properties concept of undecidability reducibility halting problem Variation of Turing machine Turing machine as an integer function
+10 Recursive function Godel number Ackermann function murecursive lamda calculus diagonalization Concept of P and NP
+
+Books for automata theory
+1 Hopcroft J E Motwani R  Ullman J D 2006 Automata theory languages and computation 
+International Edition 24 19 TMH
+2 Martin JC 2011Introduction to Languages and The Theory of Computation 4th Edition TMH
+3 Mishra Chandrasekharan Theory of Computer Science Automata Languages and Computation 3rd
+Edition  PHI
+4 Kozen Dexter C Automata and computability Springer Science amp Business Media 2012
+5 Sipser Michael quotIntroduction to the Theory of Computationquot ACM Sigact News1996
+
+syllabus of object oriented system designoosd
+1 Fundamental concepts of object oriented programming Introduction to the principles of objectoriented programming classes objects messages encapsulation inheritance polymorphism exception handling and object oriented containers 
+2 Object design implementation in a programming language eg C or Java 8
+3 Object oriented analysis modeling and design UML may be introduced Use cases use case driven analysis 
+4 Structural modeling classes relationships interfaces class diagrams and object diagrams in UML 
+5 BehavioralFunctional modeling use case diagrams sequence diagrams in UML 
+6 Dynamic modeling State charts 
+7 Architectural modeling  Logical architecture dependency class visibility sub systemsHardware architecture deployment diagram notations nodes object migration 
+between node Process architecture process and threads and their notations in UML object  synchronization invocation schemes for threads
+Implementation architecture component diagram notations and examples
+8 Analysis patterns Design patterns Designing objects with responsibilities  Creator Information expert  Low Coupling High Cohesion Controller Design Patterns factory method structural Bridge Adapter behavioral Strategy observer Applying GoF design patterns Mapping design to code
+9 Reuse Reuse of classes Reuse of components Reuse of frameworks black box framework white box frame Reuse of patterns Architectural pattern and Design pattern
+10 System Usability and Measuring User Satisfaction Usability Testing User Satisfaction Test Developing Usability Test Plans and Test Cases
+11 Distributed object model CORBA and COM  DCOM 
+12 Object oriented database systems Object oriented data model query languages storage organization and indexing techniques object relational databases 
+
+Books for OOSDOBJECT ORIENTED SYSTEM DESIGN
+1 Bertrand Meyer Object Oriented Software Construction PrenticeHall 
+2 Grady Booch Object Oriented Analysis and Design AddisonWesley 
+3 Grady Booch James Rumbaugh and Ivar Jacobson Unified Modeling Language Guide Addison Wesley 
+4 Erich Gamma et al Design Patterns Elements of Reusable OO Software AddisonWesley 
+5 Michael L Scott Programming Language Pragmatics MorganKaufmann 
+6 Kim Bruce Foundations of Object Oriented Languages PrenticeHall 
+7 Benjamin C Pierce Types and Programming Languages PrenticeHall 
+8 Bjarne Stroustrup The Design and Evolution of C AddisonWesley 
+9 Bill Venners Inside the JAVA 2 Virtual Machine McGraw Hill 
+10 James E Smith and Ravi Nair Virtual Machines ElsevierMorganKaufmann 
+Saba Zamir Handbook of Object Technology CRC Press
+
+Syllabus of microprocessor and controller
+1 Introduction to 8085A CPU Pin description and features architecture register organization
+2 8085 Addressing Different addressing modes and their features Instruction set Instruction cycle machine cycle Timing diagram
+3 8085 Assembly Language Programming 3
+4 Hardware Interfacing Interfacing memory peripheral chips IO mapped IO and Memory mapped IO Interrupts and DMA
+5 16 bit processors 8086 and architecture segmented memory cycles readwrite cycle in minmax mode Reset operation wait state Halt state Hold state Lock operation Interrupt processing
+6 8086 Addressing modes and their features Software instruction set including specific instructions like string instructions repeat segment override lock prefizers and their use and Assembly Language programming with the same
+7 8051 Microcontroller Architecture Memory Management Instruction set and Assembly Language Programming
+8 ARM RISC Architecture Memory Management Instruction set and Assembly Language Programming
+9 Overview of Raspberry Pi and Arduino Controller and its application development
+Books for microprocessors
+
+1 Microprocessors Architecture Programming and Applications with the 8085R Gaonkar
+2 The Intel Microprocessors Brey
+3 Microprocessors and interfacing Programming and hardware Douglas V Hall
+4 The 8051 Microcontroller and Embedded Systems Using Assembly And C 2EMazidi Pearson 
+Education India
+5 Advanced Microprocessors and Peripherals  Ajoy Kumar Ray K M Bhurchandi TMH
+6 ARM System On Chip Architecture  Steve Furbe
+
+ Syllabus of operating systems
+
+1 Introduction Operating System Overview Evolution of Operating Systems Basic architectural concepts concepts of batchprocessing multiprocessing multiprogramming timesharing realtime operations interrupt handler 
+2 Concept of process Process synchronization Process Management and Scheduling Cooperating processes Interprocess communication IPC Remote procedure call RPC Hardware requirements protection privileged mode Threads and their management Communication in clientserver systems
+3 Threads Multithreaded model scheduler activations examples of threaded programs
+4 Scheduling  CPU scheduling short term medium term and long term scheduling nonpreemptive and preemptive algorithms 
+5 Process Synchronization  The critical section problem Synchronization hardware Semaphores Classical problems of synchronization Tools and constructs for concurrency 
+6 Deadlocks  Modeling characterization Detection prevention and avoidance of deadlocks Recovery from deadlocks Dynamic resource allocation
+7 Memory Management  Partitioning paging concepts of virtual memory demandpaging page replacement algorithms working set theory load control segmentation segmentation and demandpaging Case studies Windows Current Hardware support for paging eg Pentium MIPS processor etc
+8 Device Management  Scheduling algorithms FCFS shortestseektimefirst SCAN CSCAN LOOK CLOOK algorithms Device drivers concept of driver routines
+9 File Management  File concept file support directory structures symbolic file directory basic file directory logical file system physical file system access methods file protection file allocation strategies
+10 Case Study  UNIXLinux Windows and Android
+Books for operating systems
+
+1 Abraham Silberschatz Peter B Galvin Greg Gagne Operating System Concepts John Wiley 
+2 William Stallings Operating Systems Internals and Design Principles PrenticeHall
+3 AS Tanenbaum Modern Operating Systems 3rd Ed Pearson
+4 AS Tanenbaum AS Woodhull Operating Systems Design and Implementation Prentice Hall
+5 M J Bach Design of the Unix Operating System Prentice Hall of India
+6 Harvey M Deitel Author Paul Deitel Author David R Choffnes Author Operating 
+Systems  Pearso
+
+Syllabus for Database management systemsDBMS
+1 Introduction Database Database Management Systems Database Systems versus File Systems View of Data Database Languages Database Users
+2 Components of a Database Management System Data Independence Network Relational Hierarchical Object Oriented Data Models
+3 The Entity Relationship Model Basic Concepts Constraints Keys Design Issues EntityRelationship Diagrams Extended ER Features Relational Model  Structures of Relational Databases Integrity  Constraints ER to Relational model
+4 Relational Query LanguagesRelational Algebra Relational Calculus SQL and QBE
+5 Relational Database Design Functional Dependency Armstrongs Axioms Normal Forms Dependency Preservation Lossless design
+6 Storage Strategies Ordered Unordered File Hashing Indexing SingleLevel Multilevel Indexes B tree and B tree
+7 Query Processing Evaluation of Relational Algebra Expressions Implementation of SELECT JOIN PROJECT Operations Query Optimization Algorithms
+8 Transaction Processing Transaction concept Schedule Conflict  View serializabilty Concurrency Control Lock base and Timestamp based Protocols Multiversion and Optimistic Concurrency Control schemes
+9 Recovery Causes of failures Immediate and Deferred Update Shadow paging
+10 Advanced Topics Introduction to Web Databases Distributed Databases Data Warehouse and Data Mining
+
+Books for DBMS database management systems
+1 Abraham Silberschatz Henry F Korth and S Sudarshan Database System Concepts Mc Graw Hill 6th ed 2013
+2 Ramez Elmasri and Shamkant B Navathe Fundamentals of Database Systems Pearson 7th ed 2016 
+3 C J Date An Introduction to Database System Pearson 8th ed 2003
+4 Ivan Bayross SQL PLSQL The Programming Language of Oracle BPB Publications 4th ed 2010
+
+Syllabus for algorithms
+1 Models of Computation Algorithms and Complexity Best case worst case and average case asymptotic notations 
+2 Sorting and searching search trees balanced trees hashing 
+3 Advanced data structure RedBlack trees Fibonacci heaps data
+4 Lower bound theory 
+5 Optimization problems Dynamic programming and Greedy method theoretical foundations of greedy method 
+6 Amortized Analysis BFS and DFS connected components spanning trees shortest paths max flow 
+7 Randomized algorithms identity testing primality and min cut 
+8 Introduction to complexity classes P NP and NP completeness
+
+BOOKS FOR ALGORITHMS
+1 Aho J Hopcroft and J Ullman The Design and Analysis of Computer Algorithms A W L International Student Edition Singapore
+2 S Baase Computer Algorithms Introduction to Design and Analysis 2nd ed Addison Wesley
+3 T H Cormen C E Leiserson and R L Rivest Introduction to Algorithms Prentice Hall of India New Delhi 
+4 E Horowitz and S Sabni Fundamental of Computer Algorithms Galgotia Pub Pitman New DelhiLondon
+5 K Mehlhom Data Structures and Algorithms Vol 1 and Vol 2 SpringerVerlag Berlin 1984 
+6 A Borodin and I Munro The Computational Complexity of Algebraic and Numeric Problems American Elsevier New York 1975 
+7 D E Knuth The Art of Computer Programming Vol 1 Vol 2 and Vol 3 Vol 1 2nd ed NarosaAddisonWesley New DelhiLondon 1973 Vol 2 2nd ed AddisonWesley 18 London 1981 Vol 3 AddisonWesley London 1973 
+8 S Winograd The Arithmetic Complexity of Computation SIAM
+
+Syllabus for information and coding theory
+1 Introduction Data and Information Communication Channels
+2 Basics of Information Theory Entropy Differential Entropy Relative Entropy Conditional Entropy Mutual Information Channel Capacity
+3 Different Models of Sources Channels and Noise Discrete Source Continuous Source Memoryless Source Memoryless Channel Binary Symmetric Channel Gaussian Channel Additive White 
+Gaussian Noise Markov source
+4 Source Coding and Channel Coding Source Coding Theorem Channel Coding Theorem
+5 Quantum Information Theory von Neumann Entropy Quantum Relative Entropy Quantum Joint Entropy Quantum Conditional Entropy Quantum Mutual Information
+6 Coding Theory Block Codes Cyclic Codes CRC Codes BCH and ReedSolomon Codes Golay Codes Convolutional Codes Majority Logic Decoding Viterbi Decoding Algorithm LDPC Codes
+7 STC coding Introduction to SISO MIMO Spacetime coding
+Books for information and coding theory
+
+1 Thomas M Cover and Joy A Thomas Elements of Information Theory John Wiley amp Sons Inc Second Edition 2006
+2 Todd K Moon Error Correction Coding Mathematical Methods and Algorithms John Wiley amp Sons Inc New Jersey 2005
+3 Ron M Roth Introduction to Coding Theory Cambridge University Press 2006
+4 Modern Digital and Analog Communication Systems BP Lathi  5 th edition Oxford University 
+Press USA
+5 Communication Systems A B Carlson 4th Edition Mcgraw Hill 2002
+6 Ranjan Bose  Information Theory Coding and Cryptography TMH
+
+syllabus for compiler design
+ 1 Introduction High level and low level language Compiler types challenges in compiler design phases and passes language processing system 
+2 Lexical analyzer role issues Token  pattern lexeme lexical errors input buffering Regular expression regular definitions recognizition of  tokens transitional system Conversion of RE to NFAThomsons construction Converting RE directly to DFA Minimizing DFA Lex compiler
+3 Formal grammars and their application to syntax analysis BNF notation ambiguity Removal of left recursion and left factoringTop down parsing Recursive decent parsing Predictive parsing  Recursive predictive parsing Non recursive predictive parsing LL1 parsing First Follow LL1 table constructing not LL1 Error recovery in predictive parsingpanic mode and phrase level Bottom up parsing handle shift reduce parsing problems conflict in shift reduce parsing operator precedence parsing LR parsing SLR SLRtable constructing canonical and LALR YACC
+
+4 Syntax directed transition syntax directed definition SDD Attribute grammar SDD for type checking Abstract syntax tree synthesized and inherited attribute dependency graph S and L attribute Semantic error
+5 Type checking Static and dynamic check type system type expression error recovery specification of a simple type checker
+6 Intermediate code generationadvantages forms of intermediate representation Syntax tree DAG Three address code Three address code3AC types quadruples triple and indirect triple3AC for relation and logical statement Boolean expression condition statement and loop Backpatching
+7 Code generation factor affecting code generation register allocation basic block and flow graph transformation on basic blocksstructure preserving common sub expression elimination dead code elimination renaming temporary variable algebraic transformation DAG and basic block peephole optimization 
+8 Run time environment Memory management Storage organization static vs dynamic allocation activation tree control stack storage organization heap allocation activation records garbage collection mark and sweep  reference counting generation garbage collection 
+
+Books for compiler design
+
+1 A V Aho R Sethi and J Ullman Compilers Principles Techniques and Tools Addison Wesley
+2 Steven S Muchnick Advanced Compiler Design and Implementation Morgan Kaufmann Publishers
+3 David Galles Modern Compiler Design Pearson Education
+4 C Fischer and R LeBlanc Crafting a Compiler Benjamin Cummings
+5 A Appel Modern Compiler Implementation in C Cambridge Univ Press London
+6 C Fischer and R LeBlanc Crafting a Compiler in C Benjamin Cummings
+Syllabus for computer networks
+
+1 Computer networks and their types a brief history of networking data switching techniques an introduction to virtual circuit switched networks and datagram networks need of layered architecture ISOOSI and TCPIP architecture task of layers
+2 Transmission media bit rate baud rate and bandwidth bit encoding techniques Network topology
+3 Data link layer DLL design issues Error detection and correction Flow control Example DLL protocols  HDLC and PPP Need of MAC sublayer ALOHA and CSMA protocols Ethernet LAN HUB bridge 
+and switch Switched LAN an introduction to Token ring LAN and FDDI DQDB Wireless LAN 
+4 Need of network layer Routing algorithms and protocols  RIP OSPF BGP router routing in Internet need of logical address X25 network ARPANET and ERNET 
+5 internetworking network layer in Internet  IP ICMP IGMP ARP RARP DHCP NAT and CIDR IPv6 
+6 Design issues of transport layer socket address congestion control TCP and UDP
+Books for Computer network
+1 L L Paterson and B S Davie Computer Network Morgan Kaufman San Mateo
+2 A Tannenbaum Computer Networks Prentice Hall India 
+3 W Stallings ISDN and Broadband ISDN With Frame Relay and ATM Prentice Hall 
+4 W Stallings Local and Metropolitan Area Networks Macmillan New York
+5 Kaufman R Perlman and M Speciner Network Security Prentice Hall Englewood Cliffs
+6 V P Ahuja Design and Analysis of Computer Communication Networks McGraw Hill New York
+7 L Gracial and I Widjaja Communication Networks TataMcGraw Hill 
+8 L L Paterson and B S Davie Computer Network Morgan Kaufman San Mateo
+
+Syllabus for software engineering
+1 Introduction Software Engineering Discipline and its Evolution Software Projects vs Products Exploratory Style of Software Development Human 
+Cognitive Limitations Emergence of Software Engineering
+2 Software Life Cycle Models Documenting Software Life Cycle Life Cycle Models Classical Waterfall Model Iterative Waterfall Model Prototyping Model Evolutionary Model Spiral Model Selecting suitable model for software development 
+3 Software Requirements Specification Requirements gathering Requirements analysis Software Requirements Specification SRS IEEE SRS format Identifying functional and nonfunctional requirements Documenting software requirements specification
+4 Function Oriented Software Design Design Activities and methodologies Cohesion and Coupling in software design Modular Software Design SASD Methodology Structured Analysis and Building DFD Models Structured Design Structure Chart Preparation Transform and Transaction Analysis
+5 Object Oriented Software DesignBasic Object Oriented Concepts UML Modelling UML 2x
+6 Coding Standards and Guidelines Code Review Techniques Code  Walkthrough Code Inspection Software Documentation Gunnings Fog Index
+7 Testing Basic software testing concepts Test Case Generation Black Box Testing Equivalence Class Partitioning Boundary Value Analysis White Box Testing Statement Branch Condition Path coverage based testing strategies Data flow based testing Mutation Testing McCabes Cyclomatic Complexity Integration Testing System 
+testing Error Seeding Regression Testing Software testing metrics Benefits Metrics life cycle Types  Process Metrics Product Metrics Project Metrics Derivative Metrics Defect Density Defect Leakage Defect Removal Efficiency Defect Severity Index Review Efficiency Test Case Effectiveness Test Case Productivity Test Design Coverage Test Execution Coverage Test 
+Tracking  Efficiency Test Effort Percentage Test Economic Metrics Test Effectiveness Test Team Metrics Agile process metrics Software Testing Key Performance Indicators KPIs
+8 Reliability and Quality Management Software vs Hardware Reliability Reliability Metrics and Growth Models Software Quality Management Quality Systems ISO900 9001 SEI CMM Model
+9 Software Maintenance 3LSoftware maintenance types Software maintenance Characteristics Reverse engineering Maintenance process models
+10 Software Maintenance 3L Software maintenance types Software maintenance Characteristics Reverse engineering Maintenance process models
+11 Software Project Management 4L Project planning SPMP document Project Size Estimation Metrics Estimation Techniques Empirical Heuristic Analytical techniques Scheduling Project Monitoring Activity networks and Critical Path Method CPM
+
+books for software engineering
+1 R Mall Fundamentals of Software Engineering Prentice Hall of India 2nd Ed 2006
+2 R S Pressman Software Engineering A Practitioners Approach Tata McGraw Hill 6th Ed 2005 
+3 I Sommerville Software Engineering Pearson 7th Ed 2005 
+4 P Jalote An Integrated Approach to Software Engineering Narosa 2nd Ed 1999 
+Syllabus for high performance computer architecture
+1 Overview of von Neumann architecture CISC and RISC processors Instruction set architecture Architecture Measuring and reporting performance Data Path Design
+2 Pipelining Basic concepts of pipelining data hazards control hazards and structural hazards Techniques for overcoming or reducing the effects of various hazards
+3 Hierarchical Memory Technology Inclusion Coherence and locality properties Cache memory organizations Techniques for reducing cache misses Virtual memory organization mapping and management techniques memory replacement policies
+4 Instructionlevel parallelism Concepts of instructionlevel parallelism ILP Techniques for increasing ILP Superscalar superpipelined and VLIW processor architectures Vector and symbolic processors Case studies of contemporary microprocessors
+5 Multiprocessor Architecture Taxonomy of parallel architectures Centralized sharedmemory architecture synchronization memory consistency interconnection networks Distributed sharedmemory 
+architecture Cluster computers Multicore architectures
+6 GPU Architecture 
+
+Suggested Books for high performance computer architecture
+1 David A Patternson John L Hennessy Computer Organization and Design  The HWSW Interface The Morgan Kaufmann Series in Computer Architecture and Design
+2 David A PatternsonJohn L Hennessy Computer ArchitectureA Quantitative Approach The Morgan Kaufmann Series in Computer Architecture and Design
+3 Kai Hwang Advanced Computer Architecture Parallelism Scalability Programmability
+4 JP Shen and MH Lipasti Modern Processor Design MCGraw Hill
+
+Syllabus for machine learning
+1 Introduction Learning Problems Wellposed learning problems Designing learning systems
+2 Concept Learning Concept learning task Inductive hypothesis Ordering of Hypothesis Generaltospecific ordering of hypotheses Version spaces Inductive Bias 
+3 Learning Rule Sets Sequential Covering Algorithm First Order Rules Induction First Order Resolution Inverting Resolution
+4 Regression Linear regression Notion of cost function Logistic Regression Cost function for logistic regression application of logistic regression to multi class classification 
+5 Supervised Learning Support Vector Machine Decision tree Learning Representation Problems Decision Tree Learning Algorithm Attributes Inductive Bias Overfitting Bayes Theorem Bayesian learning Maximum likelihood Least squared error hypothesis Gradient Search Naive Bayes classifier Bayesian Network Expectation Maximization Algorithm
+6 Unsupervised learning Clustering Kmeans clustering hierarchical clustering
+7 InstanceBased Learning kNearest Neighbour Algorithm Radial Basis Function Locally Weighted Regression Locally Weighted Function
+8 Neural networks Linear threshold units Perceptrons Multilayer networks and back propagation recurrent networks Probabilistic Machine Learning Maximum Likelihood Estimation
+9 Regularization Preventing Overfitting Ensemble Learning Bagging and Boosting Dimensionality reduction
+
+Books for machine learning
+Text Books
+1 Machine Learning Tom Mitchell McGraw Hill 1997
+2 The Elements of Statistical Learning Data Mining Inference and Prediction 2e Trevor Hastie Robert Tibshirani Jerome Friedman Springer Science and Business Media 2009
+3 Pattern Classification 2e Richard o Duda Peter E Hart David G Stork John Wiley  Sons 2012
+4 James Gareth Daniela Witten Trevor Hastie and Robert Tibshirani An introduction to statistical learning Vol 112 New York springer 2013
+5 Christopher M Bishop Machine learning and pattern recognition Information science and statistics Springer Heidelberg 2006
+6 Tan PangNing Michael Steinbach and Vipin Kumar Introduction to data mining Pearson Education India 2016

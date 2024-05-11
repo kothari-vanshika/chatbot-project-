@@ -1,0 +1,6 @@
+scipy
+langchain-community
+langchain-openai
+numpy
+chromadb
+openai
